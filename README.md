@@ -1,5 +1,6 @@
 # Gerak-Lurus-Beraturan-GLB-Gerak-Melingkar-Beraturan-GMB-
 Uji coba kolaborasi coding GLB &amp; GMB
+
 import numpy as np
 import matplotlib.pyplot as plt
 
